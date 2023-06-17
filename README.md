@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-  <h1> ✺ PEDRO NERES ✺ </h1>
-  <h2>Product Designer &<br>
-    Dev Front-End</h2>
-  <h3>✺ Polyglot Digital Nomad<br>traveling across South America</h3>
+  <h4> ✺ PEDRO NERES ✺ </h4>
+  <h5>Product Designer &<br>
+    Dev Front-End</h5>
+  <h6>✺ Polyglot Digital Nomad<br>traveling across South America</h6>
 </div>
