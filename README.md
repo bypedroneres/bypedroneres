@@ -5,4 +5,4 @@
 
 I'm currently studying computer science at Ada tech, looking for an international remote vacancy where I can develop more of each of the 7 languages that I speak: Portuguese, English, Spanish, German, Italian, French and Korean.
 
-![bypedroneres's Stats](https://github-readme-stats.vercel.app/api?username=bypedroneres&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
+![bypedroneres's Stats](https://github-readme-stats.vercel.app/api?username=bypedroneres&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
