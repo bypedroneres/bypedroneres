@@ -1,5 +1,3 @@
-### Hi there, I'm Pedro Neres ✺
-
 - I'm a Brazilian digital nomad exploring the world.
 - Full Stack Developer & Computer Science Student
 - Currently studying computer science at Ada tech
