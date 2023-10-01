@@ -1,4 +1,3 @@
-- I'm a Brazilian digital nomad exploring the world.
 - Full Stack Developer & Computer Science Student
 - Currently studying computer science at Ada tech
 - Fluent in 7 languages: Portuguese, English, Spanish, German, Italian, French, and Korean
