@@ -1,10 +1,16 @@
+### Hi there, I'm Pedro Neres ✺
 
-  I'm a Brazilian polyglot digital nomad traveling across the world. I have more than 7 years of experience as a Designer and 3 years of experience as a Full Stack Developer, always creating minimalist websites for personal use or for companies in general.
+✺ I'm a Brazilian digital nomad exploring the world.
+✺ Full Stack Developer & Computer Science Student
+✺ Currently studying computer science at Ada tech
+✺ Fluent in 7 languages: Portuguese, English, Spanish, German, Italian, French, and Korean
 
-I'm currently studying computer science at Ada tech, looking for an international remote vacancy where I can develop more of each of the 7 languages that I speak: Portuguese, English, Spanish, German, Italian, French and Korean.
+#### GitHub Stats
 
-![bypedroneres's Stats](https://github-readme-stats.vercel.app/api?username=bypedroneres&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bypedroneres&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 
-![bypedroneres's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bypedroneres&theme=graywhite&hide_border=true)
+#### Contact Me
 
-![bypedroneres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bypedroneres&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+✺ [Email](mailto:bypedroneres@gmail.com) | ✺ [LinkedIn](https://www.linkedin.com/in/neresxv) 
+
+Feel free to reach out for collaboration or just a chat about travel and languages. Let's connect and create together!
