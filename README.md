@@ -1,51 +1,80 @@
-<p align="left">Hi! I'm Pedro Neres, a full stack developer with a strong focus on backend technologies and a passion for building scalable, maintainable, and user-focused applications. I work mainly with Go, React, Firebase, and PostgreSQL, and I enjoy working on real-time systems, clean UIs, and cloud-based platforms. I've contributed to high-impact projects used by thousands, and I love creating tools that are both functional and beautiful. Currently, I’m looking for opportunities to join innovative product teams where I can grow and make a difference.</p>
+<p align="left">Hi! I’m Pedro Neres, a full stack developer focused on building high-impact web apps using modern technologies. Currently exploring the intersection of backend performance and user experience. My stack includes Go, TypeScript, React, Firebase, PostgreSQL, and a touch of cloud (Azure & AWS). I’m deeply interested in scalable systems, clean architecture, and meaningful products.</p>
 
 ---
 
-**Main Stack**
+### ✺ Main Stack
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-444444?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Other Technologies**
+---
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### ✺ Backend & Languages
 
-**Database & Backend**
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-222222?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-444444?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23007acc.svg?style=for-the-badge&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+---
+
+### ✺ Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-444444?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ✺ Interests
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=probot&logoColor=white)
+![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-222222?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### ✺ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=for-the-badge&logo=firebase&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+---
+
+### ✺ Cloud
+
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-222222?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 <details open>
-<summary>⚙ <b>GitHub Analytics</b></summary>
-<br>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroneres&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroneres&theme=tokyonight&layout=compact&hide_border=true"/>
-</p>
+  <summary>✺ <b>GitHub Stats</b></summary>
+  <br>
+  <p align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroneres&theme=graywhite&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroneres&theme=graywhite&layout=compact&hide_border=true" />
+  </p>
 </details>
 
 ---
 
-<p align="left">📬 Contact me</p>
+### ✺ Contact me
 
 <p align="left">
-  <a href="mailto:bypedroneres@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:pedroneres.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/bypedroneres/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pedroneres/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
