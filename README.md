@@ -61,8 +61,9 @@
   <summary>✺ <b>GitHub Stats</b></summary>
   <br>
   <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroneres&theme=graywhite&show_icons=true&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroneres&theme=graywhite&layout=compact&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroneres&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroneres&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
+
   </p>
 </details>
 
