@@ -42,10 +42,10 @@
 <p align="left">📬 Contact me</p>
 
 <p align="left">
-  <a href="mailto:pedroneres.dev@gmail.com" alt="Gmail">
+  <a href="mailto:bypedroneres@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pedroneres/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/bypedroneres/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
